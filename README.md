@@ -63,7 +63,7 @@
 
 <br>
 
-**🌱 I'm currently studying...**
+**I'm currently studying...**
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=150458)
