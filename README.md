@@ -54,15 +54,6 @@
 
 <br>
 
-**My favorites Editors/IDE**
-
-![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=VIM&logoColor=019733)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=007ACC)
-![Eclipse-IDE](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse-IDE&logoColor=2C2255)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br>
-
 **I'm currently studying...**
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626)
@@ -73,7 +64,16 @@
 
 <br>
 
-**My favorites Gaming Platforms**
+**My favorite Editors and IDEs**
+
+![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=VIM&logoColor=019733)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=007ACC)
+![Eclipse-IDE](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=Eclipse-IDE&logoColor=2C2255)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br>
+
+**My favorite Gaming Platforms**
 
 ![SNES](https://img.shields.io/badge/-SNES-333333?style=flat&logo=Nintendo&logoColor=D12228)
 ![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=PlayStation&logoColor=FFFFFF)
