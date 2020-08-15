@@ -43,7 +43,7 @@
 
 <br>
 
-<h4>🌱 I'm currently studying...</h4>
+**🌱 I'm currently studying...**
 
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat)
 ![Math](https://img.shields.io/badge/-Math-333333?style=flat)
