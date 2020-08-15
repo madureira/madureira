@@ -49,3 +49,13 @@
 ![Math](https://img.shields.io/badge/-Math-333333?style=flat)
 ![Game Development](https://img.shields.io/badge/-Game%20Development-333333?style=flat)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/madureira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madureira&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+    &nbsp;
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madureira&theme=dark&layout=compact&exclude_lang=Objective-C+Tcl+Fortran+Makefile+vim-script" />
+    </a>
+</p>
