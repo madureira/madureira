@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/madureira/madureira/master/.github/profile.gif)](https://github.com/madureira)
+[![](https://raw.githubusercontent.com/madureira/madureira/master/.github/matrix_opt.gif)](https://github.com/madureira)
 
 <p align='center'>
   <a href="https://linkedin.com/in/rafaelmadureira/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
