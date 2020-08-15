@@ -73,16 +73,6 @@
 
 <br>
 
-**My favorite Gaming Platforms**
-
-![SNES](https://img.shields.io/badge/-SNES-333333?style=flat&logo=Nintendo&logoColor=D12228)
-![PlayStation](https://img.shields.io/badge/-PlayStation-333333?style=flat&logo=PlayStation&logoColor=FFFFFF)
-![PlayStation 2](https://img.shields.io/badge/-PlayStation%202-333333?style=flat&logo=PlayStation%202&logoColor=FFFFFF)
-![PlayStation 4](https://img.shields.io/badge/-PlayStation%204-333333?style=flat&logo=PlayStation%204&logoColor=FFFFFF)
-![PlayStation Vita](https://img.shields.io/badge/-PlayStation%20Vita-333333?style=flat&logo=PlayStation%20Vita&logoColor=FFFFFF)
-
-<br>
-
 <p align="center">
   <a href="https://github.com/madureira">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madureira&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
