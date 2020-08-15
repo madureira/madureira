@@ -36,7 +36,7 @@
 
 **Some of my favors Editors/IDE**
 
-![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=VIM&logoColor=light-gray)
+![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=VIM&logoColor=CCCCCC)
 ![Visual%20Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=2C2255)
 ![VS Code](https://img.shields.io/badge/-vs%20code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
