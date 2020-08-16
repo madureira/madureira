@@ -45,7 +45,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-494649?style=flat&logo=RabbitMQ)
 ![Apache Solr](https://img.shields.io/badge/-Solr-494649?style=flat&logo=Apache%20Solr)
 ![Apache Maven](https://img.shields.io/badge/-Maven-494649?style=flat&logo=Apache%20Maven&logoColor=C71A36)
-![JWT](https://img.shields.io/badge/-JWT-494649?style=flat&logo=JSON%20Web%20Tokens&logoColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-494649?style=flat&logo=Docker&logoColor=2496ED)
 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-494649?style=flat&logo=Microsoft%20Azure)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-494649?style=flat&logo=Google%20Cloud)
