@@ -84,6 +84,6 @@
 <p align="center">
   <a href="https://github.com/madureira">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madureira&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madureira&theme=dark&layout=compact&exclude_lang=Objective-C+Tcl+Fortran+Makefile" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madureira&theme=dark&layout=compact&exclude_lang=Objective-C" />
   </a>
 </p>
