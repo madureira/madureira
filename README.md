@@ -78,12 +78,3 @@
 ![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat&logo=PlayStation&logoColor=FFFFFF)
 ![Nintendo](https://img.shields.io/badge/-Nintendo-%23D12228?style=flat&logo=Nintendo&logoColor=FFFFFF)	
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=FFFFFF)
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/madureira">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madureira&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madureira&theme=dark&layout=compact&exclude_lang=Objective-C" />
-  </a>
-</p>
