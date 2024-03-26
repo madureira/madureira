@@ -56,11 +56,12 @@
 
 **I'm currently studying...**
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-494649?style=flat&logo=Jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/-Pandas-494649?style=flat&logo=Pandas&logoColor=150458)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-494649?style=flat&logo=TensorFlow&logoColor=FF6F00)
+![Rust](https://img.shields.io/badge/-Rust-494649?style=flat&logo=Rust)
+![Actix](https://img.shields.io/badge/-Actix-494649?style=flat&logo=Actix)
+![GraphQL](https://img.shields.io/badge/-GraphQL-494649?style=flat&logo=GraphQL)
+![Diesel ORM](https://img.shields.io/badge/-Diesel_ORM-494649?style=flat&logo=Diesel_ORM)
 ![Math](https://img.shields.io/badge/-Math-494649?style=flat&logo=Matrix)
-![OpenGL](https://img.shields.io/badge/-OpenGL-494649?style=flat&logo=OpenGL)
+
 
 <br>
 
