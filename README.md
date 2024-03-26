@@ -11,11 +11,12 @@
 
 ![C](https://img.shields.io/badge/-C-494649?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-494649?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-494649?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-494649?style=flat&logo=Rust)
+![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-494649?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-494649?style=flat&logo=PHP)
 ![Lua](https://img.shields.io/badge/-Lua-494649?style=flat&logo=Lua)
+![PHP](https://img.shields.io/badge/-PHP-494649?style=flat&logo=PHP)
 
 <br>
 
@@ -46,9 +47,9 @@
 ![Apache Maven](https://img.shields.io/badge/-Maven-494649?style=flat&logo=Apache%20Maven&logoColor=C71A36)
 ![Docker](https://img.shields.io/badge/-Docker-494649?style=flat&logo=Docker&logoColor=2496ED)
 
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-494649?style=flat&logo=Amazon%20AWS&logoColor=232F3E)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-494649?style=flat&logo=Microsoft%20Azure)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-494649?style=flat&logo=Google%20Cloud)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-494649?style=flat&logo=Amazon%20AWS&logoColor=232F3E)
 ![Heroku](https://img.shields.io/badge/-Heroku-494649?style=flat&logo=Heroku)
 
 <br>
@@ -67,8 +68,8 @@
 
 ![VIM](https://img.shields.io/badge/-VIM-494649?style=flat&logo=VIM&logoColor=019733)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-494649?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
-![Eclipse-IDE](https://img.shields.io/badge/-Eclipse%20IDE-494649?style=flat&logo=Eclipse-IDE&logoColor=2C2255)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-494649?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse-IDE](https://img.shields.io/badge/-Eclipse%20IDE-494649?style=flat&logo=Eclipse-IDE&logoColor=2C2255)
 
 <br>
 
