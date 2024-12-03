@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-494649?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-494649?style=flat&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-494649?style=flat&logo=Rust)
-![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-494649?style=flat&logo=python)
 ![Lua](https://img.shields.io/badge/-Lua-494649?style=flat&logo=Lua)
 ![PHP](https://img.shields.io/badge/-PHP-494649?style=flat&logo=PHP)
@@ -27,7 +27,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-494649?style=flat&logo=jQuery&logoColor=0769AD)
 ![React](https://img.shields.io/badge/-React-494649?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-494649?style=flat&logo=Redux&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/-Material%20UI-494649?style=flat&logo=Material%20UI&logoColor=0081CB)
+![Material UI](https://img.shields.io/badge/-MUI-%23494649?style=flat&logo=MUI&logoColor=0081CB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-494649?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![Webpack](https://img.shields.io/badge/-Webpack-494649?style=flat&logo=Webpack)
 ![Babel](https://img.shields.io/badge/-Babel-494649?style=flat&logo=Babel&logoColor=F9DC3E)
@@ -38,6 +38,7 @@
 ![Node](https://img.shields.io/badge/-Node-494649?style=flat&logo=node.js&logoColor=339933)
 ![Next.js](https://img.shields.io/badge/-Next-494649?style=flat&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-494649?style=flat&logo=GraphQL&logoColor=E535AB)
+![Postgres](https://img.shields.io/badge/-Postgres-494649?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-494649?style=flat&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-494649?style=flat&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-494649?style=flat&logo=MongoDB)
@@ -59,7 +60,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-494649?style=flat&logo=Rust)
 ![Actix](https://img.shields.io/badge/-Actix-494649?style=flat&logo=Actix)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-494649?style=flat&logo=GraphQL)
-![Diesel ORM](https://img.shields.io/badge/-Diesel_ORM-494649?style=flat&logo=Diesel_ORM)
 ![Math](https://img.shields.io/badge/-Math-494649?style=flat&logo=Matrix)
 
 
@@ -68,7 +68,7 @@
 **My favorite Editors and IDEs**
 
 ![VIM](https://img.shields.io/badge/-VIM-494649?style=flat&logo=VIM&logoColor=019733)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-494649?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
+![Visual Studio IDE](https://img.shields.io/badge/-Visual%20Studio-494649?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-494649?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse-IDE](https://img.shields.io/badge/-Eclipse%20IDE-494649?style=flat&logo=Eclipse-IDE&logoColor=2C2255)
 
