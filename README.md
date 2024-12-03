@@ -20,7 +20,7 @@
 
 <br>
 
-**Some of the technologies I have worked with**
+**Some technologies I've worked with**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-494649?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-494649?style=flat&logo=CSS3&logoColor=1572B6)
