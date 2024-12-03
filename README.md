@@ -34,9 +34,9 @@
 ![Jest](https://img.shields.io/badge/-Jest-494649?style=flat&logo=Jest&logoColor=C21325)
 ![Typescript](https://img.shields.io/badge/-Typescript-494649?style=flat&logo=Typescript&logoColor=007ACC)
 
-![Java Spring](https://img.shields.io/badge/-Spring-494649?style=flat&logo=spring&logoColor=6DB33F)
 ![Node](https://img.shields.io/badge/-Node-494649?style=flat&logo=node.js&logoColor=339933)
 ![Next.js](https://img.shields.io/badge/-Next-494649?style=flat&logo=Next.js)
+![Java Spring](https://img.shields.io/badge/-Spring-494649?style=flat&logo=spring&logoColor=6DB33F)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-494649?style=flat&logo=GraphQL&logoColor=E535AB)
 ![Postgres](https://img.shields.io/badge/-Postgres-494649?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-494649?style=flat&logo=MySQL)
@@ -45,7 +45,6 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-494649?style=flat&logo=NGINX)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-494649?style=flat&logo=RabbitMQ)
 ![Apache Solr](https://img.shields.io/badge/-Solr-494649?style=flat&logo=Apache%20Solr)
-![Apache Maven](https://img.shields.io/badge/-Maven-494649?style=flat&logo=Apache%20Maven&logoColor=C71A36)
 ![Docker](https://img.shields.io/badge/-Docker-494649?style=flat&logo=Docker&logoColor=2496ED)
 
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-494649?style=flat&logo=Amazon%20AWS&logoColor=232F3E)
